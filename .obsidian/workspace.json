@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "262b7d7a10b35cb3",
+        "id": "7b9a0e344e29cc01",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4c392e1f60d411",
+            "id": "4d1fb1ae5eafaa9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/高数/一元积分学/基础知识体系.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "基础知识体系"
+              "title": "新标签页"
             }
           }
         ]
@@ -173,32 +169,34 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0e4c392e1f60d411",
+  "active": "4d1fb1ae5eafaa9e",
   "lastOpenFiles": [
     "数学/概率论/测试.md",
+    "Excalidraw/Drawing 2025-05-25 04.35.51.excalidraw.md",
+    "Excalidraw",
+    "数学/高数/一元积分学/基础知识体系.md",
+    "专业课/操作系统/测试.md",
+    "未命名.canvas",
+    "英语/测试.md",
+    "数学/线代/测试.md",
     "专业课/数据结构/测试.md",
     "专业课/计算机组成/测试.md",
     "专业课/计算机网络/测试.md",
-    "专业课/操作系统/测试.md",
-    "英语/测试.md",
-    "数学/线代/测试.md",
-    "数学/高数/一元积分学/基础知识体系.md",
     "数学/概率论/未命名",
     "数学/高数/一元积分学",
     "数学/高数/定积分.md",
     "README.md",
     "2025-05-25.md",
-    "未命名.canvas",
     "数学/概率论",
     "数学/线代",
     "数学/高数",
     "专业课/计算机网络",
     "未命名",
     "专业课/操作系统",
-    "专业课/数据结构",
-    "专业课/计算机组成"
+    "专业课/数据结构"
   ]
 }

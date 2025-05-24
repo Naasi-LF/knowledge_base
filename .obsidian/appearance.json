@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
     "obsidian-default-theme"
-  ]
+  ],
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone"
 }
