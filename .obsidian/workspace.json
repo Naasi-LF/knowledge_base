@@ -15,7 +15,7 @@
               "state": {
                 "file": "数学/高数/一元积分学/计算.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "计算"
