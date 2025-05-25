@@ -3,5 +3,6 @@
     "obsidian-default-theme"
   ],
   "cssTheme": "AnuPpuccin",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 19
 }

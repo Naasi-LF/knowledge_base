@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9a0e344e29cc01",
+        "id": "28aa35a301d32fa8",
         "type": "tabs",
         "children": [
           {
-            "id": "4d1fb1ae5eafaa9e",
+            "id": "3dafdf9745957c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数学/高数/一元积分学/计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "计算 的出链列表"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "数学/高数/一元积分学/计算.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "计算 的大纲"
             }
           },
           {
@@ -177,10 +179,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4d1fb1ae5eafaa9e",
+  "active": "4f57d1987bd964c2",
   "lastOpenFiles": [
-    "数学/高数/一元积分学/几何应用.md",
+    "image/Pasted image 20250526002013.png",
+    "image/Pasted image 20250525231220.png",
+    "image/Pasted image 20250525231204.png",
+    "image/Pasted image 20250525231128.png",
+    "image/Pasted image 20250525231055.png",
+    "image",
+    "Pasted image 20250525230510.png",
     "数学/高数/一元积分学/计算.md",
+    "数学/线代/测试.md",
+    "英语/测试.md",
+    "专业课/数据结构/测试.md",
+    "数学/高数/一元积分学/几何应用.md",
     "数学/高数/一元积分学/概念与性质.md",
     "数学/高数/一元积分学/基础知识体系.md",
     "数学/概率论/测试.md",
@@ -188,9 +200,6 @@
     "Excalidraw",
     "专业课/操作系统/测试.md",
     "未命名.canvas",
-    "英语/测试.md",
-    "数学/线代/测试.md",
-    "专业课/数据结构/测试.md",
     "专业课/计算机组成/测试.md",
     "专业课/计算机网络/测试.md",
     "数学/概率论/未命名",
@@ -202,7 +211,6 @@
     "数学/线代",
     "数学/高数",
     "专业课/计算机网络",
-    "未命名",
     "专业课/操作系统",
     "专业课/数据结构"
   ]
