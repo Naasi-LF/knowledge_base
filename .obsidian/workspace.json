@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "数学/高数/一元积分学/计算.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -179,7 +179,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4f57d1987bd964c2",
+  "active": "3dafdf9745957c00",
   "lastOpenFiles": [
     "image/Pasted image 20250526002013.png",
     "image/Pasted image 20250525231220.png",
