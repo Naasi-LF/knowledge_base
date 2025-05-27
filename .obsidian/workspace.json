@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/概率论/测试.md",
+                "file": "数学/高数/一元积分学/概念与性质.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "概念与性质"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/高数/一元积分学/计算.md",
+                "file": "数学/高数/一元积分学/概念与性质.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "计算 的大纲"
+              "title": "概念与性质 的大纲"
             }
           },
           {
@@ -179,10 +179,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3dafdf9745957c00",
+  "active": "4f57d1987bd964c2",
   "lastOpenFiles": [
-    "数学/高数/一元积分学/计算.md",
     "数学/高数/一元积分学/几何应用.md",
+    "image/1d78d455bc971a0fa1ab6cdd271a2f3.jpg",
+    "数学/高数/一元积分学/概念与性质.md",
+    "数学/高数/一元积分学/计算.md",
+    "数学/概率论/测试.md",
     "image/Pasted image 20250526002013.png",
     "image/Pasted image 20250525231220.png",
     "image/Pasted image 20250525231204.png",
@@ -193,9 +196,7 @@
     "数学/线代/测试.md",
     "英语/测试.md",
     "专业课/数据结构/测试.md",
-    "数学/高数/一元积分学/概念与性质.md",
     "数学/高数/一元积分学/基础知识体系.md",
-    "数学/概率论/测试.md",
     "Excalidraw/Drawing 2025-05-25 04.35.51.excalidraw.md",
     "Excalidraw",
     "专业课/操作系统/测试.md",
