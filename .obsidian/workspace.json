@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28aa35a301d32fa8",
+        "id": "46b3cad103800276",
         "type": "tabs",
         "children": [
           {
-            "id": "3dafdf9745957c00",
+            "id": "1a9e2e047b1deaa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,28 +20,28 @@
               "icon": "lucide-file",
               "title": "函数的概念与特性"
             },
-            "group": "1451aa803e59a1d6"
+            "group": "c995fde8454ab680"
           }
         ]
       },
       {
-        "id": "46fe8779d0270f37",
+        "id": "7896bbdc0e38d4e4",
         "type": "tabs",
         "children": [
           {
-            "id": "9f6d9ff5487e1c30",
+            "id": "58623a0540ba00da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "函数的概念与特性"
             },
-            "group": "1451aa803e59a1d6"
+            "group": "c995fde8454ab680"
           }
         ]
       }
@@ -213,14 +213,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4f57d1987bd964c2",
+  "active": "1a9e2e047b1deaa7",
   "lastOpenFiles": [
+    "数学/高数/0.计算小工具/分母分子有理化.md",
+    "数学/高数/1.函数极限与连续/函数的概念与特性.md",
+    "image/Pasted image 20250529162817.png",
+    "image/Pasted image 20250529162956.png",
+    "image/Pasted image 20250529162837.png",
+    "().md",
+    "反双曲正弦函数和双曲正弦函数.md",
+    "数学/高数/0.计算小工具/不等式.md",
     "数学/高数/一元积分学/计算.md",
     "数学/高数/一元积分学/几何应用.md",
     "数学/高数/一元积分学/概念与性质.md",
-    "数学/高数/1.函数极限与连续/函数的概念与特性.md",
-    "数学/高数/0.计算小工具/不等式.md",
-    "数学/高数/0.计算小工具/分母分子有理化.md",
     "数学/高数/0.计算小工具",
     "数学/高数/1.函数极限与连续",
     "数学/概率论/测试.md",
