@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/高数/0.计算小工具/不等式.md",
+                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不等式"
+              "title": "函数的概念与特性"
             },
             "group": "1451aa803e59a1d6"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/高数/0.计算小工具/不等式.md",
+                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "不等式"
+              "title": "函数的概念与特性"
             },
             "group": "1451aa803e59a1d6"
           }
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "函数的概念与特性 的反向链接列表"
             }
           },
           {
@@ -134,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/高数/一元积分学/计算.md",
+                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "计算 的出链列表"
+              "title": "函数的概念与特性 的出链列表"
             }
           },
           {
@@ -163,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/高数/一元积分学/计算.md",
+                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "计算 的大纲"
+              "title": "函数的概念与特性 的大纲"
             }
           },
           {
@@ -180,6 +181,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "147101065f8dfec7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -198,17 +209,18 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3dafdf9745957c00",
+  "active": "4f57d1987bd964c2",
   "lastOpenFiles": [
-    "数学/高数/0.计算小工具/分母分子有理化.md",
     "数学/高数/一元积分学/计算.md",
     "数学/高数/一元积分学/几何应用.md",
     "数学/高数/一元积分学/概念与性质.md",
     "数学/高数/1.函数极限与连续/函数的概念与特性.md",
     "数学/高数/0.计算小工具/不等式.md",
+    "数学/高数/0.计算小工具/分母分子有理化.md",
     "数学/高数/0.计算小工具",
     "数学/高数/1.函数极限与连续",
     "数学/概率论/测试.md",
