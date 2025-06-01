@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "46b3cad103800276",
+        "id": "df6be5e79f6ced9e",
         "type": "tabs",
         "children": [
           {
-            "id": "1a9e2e047b1deaa7",
+            "id": "3deb8741f6fb8e6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
+                "file": "数学/高数/一元积分学/概念与性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "函数的概念与特性"
-            },
-            "group": "c995fde8454ab680"
-          }
-        ]
-      },
-      {
-        "id": "7896bbdc0e38d4e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "58623a0540ba00da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "函数的概念与特性"
-            },
-            "group": "c995fde8454ab680"
+              "title": "概念与性质"
+            }
           }
         ]
       }
@@ -100,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2e42a01f8c69a0ca",
@@ -116,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "函数的概念与特性 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -135,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
+                "file": "数学/高数/一元积分学/计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "函数的概念与特性 的出链列表"
+              "title": "计算 的出链列表"
             }
           },
           {
@@ -164,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/高数/1.函数极限与连续/函数的概念与特性.md",
+                "file": "数学/高数/一元积分学/概念与性质.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "函数的概念与特性 的大纲"
+              "title": "概念与性质 的大纲"
             }
           },
           {
@@ -182,23 +159,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "147101065f8dfec7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,36 +176,34 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1a9e2e047b1deaa7",
+  "active": "3deb8741f6fb8e6e",
   "lastOpenFiles": [
-    "数学/高数/0.计算小工具/分母分子有理化.md",
-    "数学/高数/1.函数极限与连续/函数的概念与特性.md",
-    "image/Pasted image 20250529162817.png",
-    "image/Pasted image 20250529162956.png",
-    "image/Pasted image 20250529162837.png",
-    "().md",
-    "反双曲正弦函数和双曲正弦函数.md",
-    "数学/高数/0.计算小工具/不等式.md",
+    "image/033eeee5d24940fbd0f144566337082.jpg",
+    "image/abdf33f0029f76a4afcfea44fe0efe6.jpg",
+    "image/2350896afbe8d15a24e1a88e3b59880 1.jpg",
+    "image/2350896afbe8d15a24e1a88e3b59880.jpg",
+    "image/414c78039add5f2bee893d32934f867.jpg",
+    "image/788d32e77aefd901c26cc3e20d16e2a.jpg",
     "数学/高数/一元积分学/计算.md",
     "数学/高数/一元积分学/几何应用.md",
     "数学/高数/一元积分学/概念与性质.md",
-    "数学/高数/0.计算小工具",
-    "数学/高数/1.函数极限与连续",
-    "数学/概率论/测试.md",
-    "数学/高数/未命名.md",
-    "未命名",
+    "数学/高数/一元积分学/概念与性质.tmp",
+    "数学/高数/一元积分学/计算.tmp",
+    "数学/高数/1.函数极限与连续/函数的概念与特性.md",
     "image/1d78d455bc971a0fa1ab6cdd271a2f3.jpg",
+    "image/Pasted image 20250529162956.png",
+    "image/Pasted image 20250529162837.png",
     "image/Pasted image 20250526002013.png",
     "image/Pasted image 20250525231220.png",
-    "image/Pasted image 20250525231204.png",
-    "image/Pasted image 20250525231128.png",
-    "image/Pasted image 20250525231055.png",
+    "数学/高数/1.函数极限与连续",
+    "数学/高数/0.计算小工具/分母分子有理化.md",
+    "数学/高数/0.计算小工具/不等式.md",
+    "数学/高数/0.计算小工具",
+    "数学/概率论/测试.md",
     "image",
-    "Pasted image 20250525230510.png",
     "数学/线代/测试.md",
     "英语/测试.md",
     "专业课/数据结构/测试.md",
@@ -255,7 +220,6 @@
     "README.md",
     "2025-05-25.md",
     "数学/概率论",
-    "数学/线代",
-    "数学/高数"
+    "数学/线代"
   ]
 }
