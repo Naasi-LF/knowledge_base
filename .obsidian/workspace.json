@@ -11,15 +11,14 @@
             "id": "1a9e2e047b1deaa7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "王雨欣的日程计划表/2025-06-02.md",
-                "bFile": "王雨欣的日程计划表/2025-06-02.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "王雨欣的日程计划表/2025-06-02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-06-02"
+              "icon": "lucide-file",
+              "title": "2025-06-02"
             }
           }
         ]
